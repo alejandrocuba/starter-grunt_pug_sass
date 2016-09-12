@@ -1,0 +1,15 @@
+name: boilerplate-grunt_pug_less
+
+# Permalinks
+# permalink:    pretty
+
+# Server
+source:         sources/html/
+destination:    dist/html/
+encoding:       UTF-8
+
+path:
+  assets:       ../assets/
+  css:          ../assets/css/
+  js:           ../assets/js/
+  images:       ../assets/images/
