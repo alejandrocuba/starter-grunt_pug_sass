@@ -1,7 +1,7 @@
 {
-	"name": "boilerplate-grunt_pug_sass",
+	"name": "starter-grunt_pug_sass",
 	"description": "Start a new front-end project using GruntJS to perform task automation with a Pug/SASS/uglify/watch basic set-up.",
-	"homepage": "https://github.com/ZorphDark/boilerplate-grunt_pug_sass.git",
+	"homepage": "https://github.com/ZorphDark/starter-grunt_pug_sass.git",
 	"dependencies": {
 		"grunt": ">=0.4.0",
 		"grunt-banner": "~0.6.0",
