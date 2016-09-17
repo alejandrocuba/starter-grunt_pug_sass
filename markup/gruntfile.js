@@ -1,5 +1,5 @@
 /*!
- * boilerplate-grunt_pug_sass (https://github.com/ZorphDark/boilerplate-grunt_pug_sass.git)
+ * starter-grunt_pug_sass (https://github.com/ZorphDark/starter-grunt_pug_sass.git)
  * <> by @zorphdark 2016
  */
 
